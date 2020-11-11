@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productData>
+  <altDependencies>
+    <product>
+      <productBaseCode>NN</productBaseCode>
+      <productName>Deep Learning Toolbox</productName>
+      <productNumber>12</productNumber>
+      <productVersion>14.0</productVersion>
+      <releaseDescription>R2020a</releaseDescription>
+      <releaseFamily>R2020a</releaseFamily>
+    </product>
+  </altDependencies>
+  <dependsOn>
+    <component>
+      <name>hardwaresupportpkgs/licenses/asla_license_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1582676088</version>
+    </component>
+    <component>
+      <name>softwaresupportpkgs/nnet/resnet18_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1582678393</version>
+    </component>
+  </dependsOn>
+  <installerUsage>
+    <usage>professional</usage>
+  </installerUsage>
+  <isControllingProduct>false</isControllingProduct>
+  <licenseAgreementType>ASLA</licenseAgreementType>
+  <platformList>
+    <platform>glnxa64</platform>
+    <platform>maci64</platform>
+    <platform>win64</platform>
+  </platformList>
+  <productBaseCode>RESNET18</productBaseCode>
+  <productName>Deep Learning Toolbox Model for ResNet-18 Network</productName>
+  <productNumber>2193</productNumber>
+  <productType>softwareSupportPkg</productType>
+  <productVersion>20.1.0</productVersion>
+  <releaseDescription>R2020a</releaseDescription>
+  <releaseFamily>R2020a</releaseFamily>
+  <requiredProducts />
+</productData>
+

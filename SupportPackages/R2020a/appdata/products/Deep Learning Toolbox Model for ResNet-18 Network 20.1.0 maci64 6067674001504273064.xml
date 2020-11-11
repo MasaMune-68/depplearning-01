@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productAdditionalComps>
+  <dependsOn />
+  <isControllingProduct>false</isControllingProduct>
+  <licenseAgreementType>ASLA</licenseAgreementType>
+  <platform>maci64</platform>
+  <productBaseCode>RESNET18</productBaseCode>
+  <productName>Deep Learning Toolbox Model for ResNet-18 Network</productName>
+  <productNumber>2193</productNumber>
+  <productType>softwareSupportPkg</productType>
+  <productVersion>20.1.0</productVersion>
+  <releaseDescription>R2020a</releaseDescription>
+  <releaseFamily>R2020a</releaseFamily>
+</productAdditionalComps>
+
